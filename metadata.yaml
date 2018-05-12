@@ -1,10 +1,16 @@
 _repo: Illumination-and-its-Development-in-the-Present-Day_48157
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48157-h/images/cover.jpg
 creator:
   author:
     agent_name: Farnsworth, Sidney
     gutenberg_agent_id: '44652'
     url: http://www.gutenberg.org/2009/agents/44652
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48157#Illumination-and-its-Development-in-the-Present-Day
 gutenberg_issued: '2015-02-04'
 gutenberg_type: Text
 identifiers:
